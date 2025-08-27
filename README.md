@@ -27,8 +27,8 @@ Here’s the ERD diagram for the Photo Client Manager API:
 ## Installation & Setup
 - Please refer to INSTALLATION.md
 
-## Deployment RAILWAY
-- Please refer to DEPLOYMENT_RAILWAY.md
+## Deployment
+- I was unable to successfully deploy to Railway, reverted back to local only :/
 
 
 ## License

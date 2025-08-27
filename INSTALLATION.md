@@ -114,6 +114,8 @@ Open your browser and visit:
 
 Swagger UI will show all the available endpoints with clear descriptions.
 
+![Photo Client Manager API](./docs/Photo_Client_Manager_API.png)
+
 ---
 
 7) Quick health check
